@@ -10,7 +10,7 @@
         <!-- Logo -->
         <div class="flex items-center space-x-2">
           <a href="#top">
-            <img :src="imgLogo" alt="logo ello advocacaia" class="w-full h-10" />
+            <img :src="imgLogo" alt="logo ello advocacaia" class="w-22 h-10" />
           </a>
         </div>
 
